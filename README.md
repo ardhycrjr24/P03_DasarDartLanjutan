@@ -103,5 +103,3 @@ Kode pada modul ditulis untuk Dart versi lama, disesuaikan dengan null safety Da
 - **ex24 — exit():** validasi input 1..7; jika salah mencetak pesan lalu `exit(1)` menghentikan program dengan kode error 1 (terbukti `exit=1` saat diuji input 9). Jika valid, `switch` menampilkan nama hari (5 → Kamis).
 
 ---
-
-**Selamat Mengerjakan! 🎓**
